@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MercyMhu
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning coding in Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on all things automation in R, Python etc
 - 📫 How to reach me mercy.mhu@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love frozen banana
