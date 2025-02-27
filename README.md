@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MercyMhu
+- 👋 Hi, I’m Mercy
 - 👀 I’m interested in learning new things
 - 🌱 The goal is progress and not perfection
 - 💞️ This is my learning journey in all things data science
